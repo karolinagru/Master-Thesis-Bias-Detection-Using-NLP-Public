@@ -4,7 +4,7 @@ Social discrimination on social media platforms and online marketplaces demands 
 
 This repository contains code and analysis created for the purpose of the Master Thesis written by Karolina Grubinska on: "Detection of Social Biases in the Real Estate Market in Germany Using Natural Language Processing and Machine Learning Techniques".
 
-In this repository you can find the following:
+In this repository contains the following:
 
 * Label Prediction: Training and Inference of German DistilBERT for Multi-Label Text Classification using FARM.
 * Multimodal Transformer: Training and Inference of a multimodal German DistilBERT. This model takes as input text and tabular data.
