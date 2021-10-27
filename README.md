@@ -7,6 +7,6 @@ This repository contains code and analysis created for the purpose of the Master
 This repository contains code regarding:
 
 * Label Prediction: Training and Inference of German DistilBERT for Multi-Label Text Classification using FARM.
-* Multimodal Transformer: Training and Inference of a multimodal German DistilBERT. This model takes as input text and tabular data.
+* Multimodal Transformer: Training and Inference of a multimodal German DistilBERT. This model takes as input text and tabular data. In the folder you can find an example for the input data.
 * Benchmarks: LSTM with Attention, Multimodal LSTM on Text and Categorical Data and Unimodal German DistilBERT
 
